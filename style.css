@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("./assets/bg-image.png");
+  background-size: cover;
+  
+}
+
+#page {
+  width: 50rem;
+  padding: 2rem;
+  background-color: #F0E8C2;
+  border-radius: 24px;
+  margin: 3rem auto;
+}
