@@ -11,7 +11,7 @@
 }
 
 body {
-  background-image: url("./assets/bg-image.png");
+  background-image: url("./assets/bg-image.jpg");
   background-size: cover;
 }
 
@@ -20,7 +20,7 @@ body {
   padding: 2rem;
   background-color: #F0E8C2;
   border-radius: 24px;
-  margin: 3rem auto;
+  margin: 3rem auto 1.75rem;
 }
 
 img {
@@ -56,4 +56,14 @@ p + p {
 
 ul {
   padding-left: 1.5rem;
+}
+
+footer {
+  color: #F0E8C2;
+  text-align: center;
+  padding-bottom: 3rem;
+}
+
+footer img {
+  vertical-align:middle;
 }
